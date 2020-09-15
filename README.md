@@ -1,2 +1,2 @@
-# archivewiki
-Test-Wiki for an art archive
+# Archivewiki
+Test-Wiki for an archive of art.
